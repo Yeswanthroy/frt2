@@ -1,5 +1,9 @@
-# frt2
+## frt2:Future ready talent project by Sukritan gupta.
 Here i create a fashion store web apps named dress-up that helps the customer to find good products in cheap rates and genuine product.
+
+## my website link:https://wonderful-meadow-082763410.1.azurestaticapps.net
+
+
 ## Home page 
 ![Screenshot (1720)](https://user-images.githubusercontent.com/94239926/161370288-7338f986-810e-4d70-bd9b-b4850f498c13.png)
 ![Screenshot (1721)](https://user-images.githubusercontent.com/94239926/161370339-a5d926f0-02c1-4e27-8e39-1e9de4436b9e.png)
@@ -22,3 +26,7 @@ Here i create a fashion store web apps named dress-up that helps the customer to
 
 ## you tube video that i make to show my project:
 
+https://youtu.be/S-0zOvcQj4k
+
+## azure portal screen shot
+![Screenshot (1732)](https://user-images.githubusercontent.com/94239926/161371437-9684f5f6-d9c6-48bc-8835-a2a43a684894.png)
